@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 100,
+    "Title": "In Search of Lost Time",
+    "Author": "Marcel Proust"
+  },
+  {
+   "Id": 101,
+   "Title": "Ulysses",
+   "Author":"James Joyce"
+  },
+  {
+   "Id": 102,
+   "Title": "Hamlet",
+   "Author": "William Shakespeare"
+  },
+  {
+   "Id": 103,
+   "Title": "The Adventures of Huckleberry Finn",
+   "Author": "Mark Twain"
+  },
+  {
+   "Id": 104,
+   "Title": "Les Miserables",
+   "Author": "Victor Hugo"
+  },
+  {
+   "Id": 105,
+   "Title": "Frankenstein",
+   "Author": "Mary Shelley"
+  },
+  {
+   "Id": 106,
+   "Title": "Charlotte's Web",
+   "Author":"E.B. White"
+  },
+  {
+   "Id": 107,
+   "Title": "Where The Wild Things Are",
+   "Author": "Maurice Sendak"
+  }
+]

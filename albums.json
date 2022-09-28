@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 300,
+    "Title": "The Blueprint",
+    "Artist": "Jay-Z"
+  },
+  {
+   "Id": 301,
+   "Title": "Legend",
+   "Artist": "Bob Marley"
+  },
+  {
+   "Id": 302,
+   "Title": "Thriller",
+   "Artist": "Michael Jackson"
+  },
+  {
+   "Id": 303,
+   "Title": "Purple Rain",
+   "Artist": "Prince"
+  },
+  {
+   "Id": 304,
+   "Title": "Rumours",
+   "Artist": "Fleetwood Mac"
+  },
+  {
+   "Id": 305,
+   "Title": "Nevermind",
+   "Artist": "Nirvana"
+  },
+  {
+   "Id": 306,
+   "Title": "Abbey Road",
+   "Artist": "The Beatles"
+  },
+  {
+   "Id": 307,
+   "Title": "What's Going On",
+   "Artist": "Marvin Gaye"
+  }
+]
